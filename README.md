@@ -16,3 +16,12 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 - Se realizó un commit y un pull request.
 - Se implemento el uso de ramas y fork 
 
+
+# Integrante 
+-Prueba 
+
+# Cambios realizados 
+- Hice un fork al repositorio
+- Cree una rama para trabajar el proyecto 
+- Desarrolle un issue para mejorar el aspecto de la pagina
+- Cree un PR para proponer la integracion de imagenes y colores mas formales. 
