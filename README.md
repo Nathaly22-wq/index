@@ -16,3 +16,8 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 - Se realizó un commit y un pull request.
 - Se implemento el uso de ramas y fork 
 
+Patricia Caraballo
+hice unfork
+lo clone
+cree un pull request
+se hizo un comit
