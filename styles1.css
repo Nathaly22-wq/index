@@ -22,8 +22,20 @@ header h1 {
     margin: 0;
   
 }
+ /* Contenedor del banner */
+        .banner-container {
+            width: 100%; /* Ocupa todo el ancho disponible */
+            overflow: hidden; /* Oculta cualquier parte de la imagen que se desborde */
+            line-height: 0; /* Elimina espacio extra debajo de la imagen */
+        }
 
-
+ /* Estilo de la imagen del banner */
+        .banner-image {
+            width: 100%; /* La imagen se ajusta al 100% del ancho de su contenedor */
+            height: auto; /* La altura se ajusta automáticamente para mantener la proporción */
+            display: block; /* Asegura que la imagen no tenga espacios extra a su alrededor */
+        }
+  
 .container {
     width: 80%;
     margin: auto;
@@ -89,4 +101,5 @@ footer p {
     margin: 0;
     color: #333;
 }
+
 
