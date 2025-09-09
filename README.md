@@ -7,7 +7,10 @@
 Este repositorio se creó como práctica para aprender a usar **repositorios, ramas, commits, issues, forks y pull requests**.
 
 # Integrante
-- Nathaly de Jesús Beltre 
+- Nathaly de Jesús Beltre
+- Moranny Rubio
+- Ana Checo
+- Patricia Caraballo
 
 # Cambios realizados
 - Cree un proyecto en Visual Studio
