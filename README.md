@@ -15,4 +15,4 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 - Se creó un issue de prueba.
 - Se realizó un commit y un pull request.
 - Se implemento el uso de ramas y fork 
-
+- Facil acceso a personas discapacitadas
