@@ -46,5 +46,5 @@ Durante la actividad se trabajó con:
 ## 📂 Evidencia de Pull Requests  
 - [PR Karolina – rama `second-branch`](https://github.com/Nathaly22-wq/index/pull/6)  
 - [PR Moranny – rama pendiente](https://github.com/Nathaly22-wq/index/pull/7)  
-
+- [PR Ana Checo](https://github.com/Nathaly22-wq/index/pull/9)  
 ---
