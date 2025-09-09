@@ -9,7 +9,6 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 # Integrante
 - Nathaly de Jesús Beltre
 - Moranny Rubio
-- Ana Checo
 - Patricia Caraballo
 
 # Cambios realizados
